@@ -70,9 +70,13 @@ LasVegas-Airbnb-Analysis
 ## 🚀 How to Use
 
 1.Download the ipynb and csv files.
-2. Open the `LasVegasAirbnb.ipynb` file in Jupyter Notebook.  
-3. Ensure the las_vegas_dataset is in the same folder.  
-4. Run the cells step-by-step to clean, analyze, and visualize data.
+
+2. Open the `LasVegasAirbnb.ipynb` file in Jupyter Notebook.
+
+3. Ensure the las_vegas_dataset is in the same folder.
+   
+5. Run the cells step-by-step to clean, analyze, and visualize data.
+   
 
 ---
 🔍 Sample Insights
