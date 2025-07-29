@@ -68,7 +68,9 @@ LasVegas-Airbnb-Analysis
 ---
 
 ## 🚀 How to Use
+**LasVegasAirbnb.ipynb file is directly accessible on Github
 
+#Steps to access the file on Jupyter Notebook
 1.Download the .py file and csv file
 
 2. Open the `LasVegasAirbnb.py` file in Jupyter Notebook.
